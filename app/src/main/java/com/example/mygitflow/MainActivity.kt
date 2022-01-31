@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Hello")
         println("This is My First Feature")
+        println("Fix")
     }
 }
